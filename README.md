@@ -8,7 +8,7 @@ LED (Light Emitting Diode) blinking is one of the fundamental and exciting proje
 
 In this project, we'll explore how to use an Arduino board to control the illumination of an LED. The LED will be programmed to blink on and off at specific intervals, creating a visible and repetitive pattern. This simple yet instructive project is an ideal starting point to grasp the principles of coding, wiring, and components used in Arduino-based applications. It's the gateway to more complex projects that involve sensors, displays, and various actuators, making it an essential skill for any aspiring maker or electronics enthusiast.
 
-![image](source/images/IMG_20231107_114827 (1))
+![image](source/images/IMG_20231107_114827 (1)jpg)
 
 ### Step: 1 - Components
 LED - 1
