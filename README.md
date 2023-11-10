@@ -17,7 +17,7 @@ Breadboard - 1
 Arduino uno + connecting cable - 1 and Ardunio software
 Jumper wires - As we require
 
-![image](source/images/IMG_20231107_114827 (1))
+![IMG_20231107_114827 (1)](https://github.com/abhiramiselvan/led_blinking/assets/144225835/8e1dabb6-f691-4d84-ab88-b552c49ae16d)
 
 ### Step: 2 - Interfacing the LED with Arduino
 The LED has two pins generally:
