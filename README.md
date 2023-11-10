@@ -17,6 +17,8 @@ Breadboard - 1
 Arduino uno + connecting cable - 1 and Ardunio software
 Jumper wires - As we require
 
+![image](source/images/IMG_20231107_114827 (1))
+
 ### Step: 2 - Interfacing the LED with Arduino
 The LED has two pins generally:
 Positive pin(+)
