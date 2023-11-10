@@ -11,11 +11,11 @@ In this project, we'll explore how to use an Arduino board to control the illumi
 ![download](https://github.com/abhiramiselvan/led_blinking/assets/144225835/94a87601-64be-4a94-af27-323a065aa668)
 
 ### Step: 1 - Components
-LED - 1
-Resistor - 220 ohms - 1
-Breadboard - 1
-Arduino uno + connecting cable - 1 and Ardunio software
-Jumper wires - As we require
+- LED - 1
+- Resistor - 220 ohms - 1
+- Breadboard - 1
+- Arduino uno + connecting cable - 1 and Ardunio software
+- Jumper wires - As we require
 
 ![IMG_20231107_114827 (1)](https://github.com/abhiramiselvan/led_blinking/assets/144225835/8e1dabb6-f691-4d84-ab88-b552c49ae16d)
 
